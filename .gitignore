@@ -6,3 +6,4 @@ derived_*.csv
 slopes_boot.csv
 __pycache__/
 .DS_Store
+!supplementary/TextS1_questionnaire_original_JA.pdf
