@@ -1,6 +1,6 @@
 # Text S1 — Structured questionnaire answered by the table's author
 
-**Respondent:** Arata Fujiwara (AF), author of the Asian Distance Optimization Table (ADOT). **Instrument:** structured questionnaire, version 4 (Japanese), eight sections. The section on expected level dependence (C) was answered before the section presenting results from this study (H). **Date and mode:** 〔to be completed from the record sheet〕. Responses are paraphrased; the original Japanese form is available from the corresponding author.
+**Respondent:** Arata Fujiwara (AF), author of the Asian Distance Optimization Table (ADOT). **Instrument:** structured questionnaire, version 4 (Japanese), eight sections. The section on expected level dependence (C) was answered before the section presenting results from this study (H). **Date and mode:** answered in writing on 7 September 2026, by the respondent alone, without recording; recorded by the respondent. Responses are paraphrased; the original Japanese form is available from the corresponding author.
 
 ## Provenance of the table (section A)
 

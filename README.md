@@ -16,7 +16,9 @@ This repository contains **derived summaries, figures and analysis code only**. 
 | `supplementary/TableS2_S4_S5_derived_summaries.xlsx` | Tables S2, S4, S5 | Descriptive statistics by race, edition and sex; marginal slopes with bootstrap CIs and df sensitivity; race-by-time interaction and sensitivity excluding 2021–2022 (S2); race-day temperature and humidity by edition, from the result sheets (S4); median multiplier by 10-min finish-time bin and range of validity (S5) |
 | `supplementary/TableS3_segment_profiles.csv` | Table S3 | Median relative pace by 5 km segment, race and finish-time band |
 | `supplementary/FigureS1_segment_profiles_{EN,JA}.png` | Figure S1 | Segment profiles: men finishing 2:32–2:42 at the three men's races; women at Nagoya 2022 by finish time |
-| `supplementary/TextS1_elicitation_summary.md` | Text S1 | Summary of the structured questionnaire answered by the table's author before seeing the results (provenance, intended range, expected level dependence, revision criteria) |
+| `supplementary/TextS1_questionnaire_original_JA.pdf` | Text S1 (original) | The structured questionnaire as answered by the table's author, in Japanese (primary source; PDF rendering of the returned form). Section C (expected level dependence) precedes section H (presentation of results) |
+| `supplementary/TextS1_elicitation_summary_JA.md` | Text S1 (JA transcript) | Japanese transcription reproducing the author's written answers verbatim（藤原氏の記入文をそのまま転記）|
+| `supplementary/TextS1_elicitation_summary.md` | Text S1 (EN summary) | English summary of the questionnaire, referenced in the article |
 | `code/build_v10.py` | Code S1 | Extraction of half-way split and finish time from the result sheets |
 | `code/analyze_v10.py` | Code S1 | Main analysis (spline fits, race-by-time interaction, sex differences) |
 | `code/build_v11.py` | Code S1 | Extraction of all 5 km splits |
