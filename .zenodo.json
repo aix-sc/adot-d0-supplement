@@ -1,0 +1,16 @@
+{
+  "title": "Supplementary material for: Every distance-conversion table has a range of validity — how the half-to-full marathon relationship changes with finish time, sex and race context in 34,139 finishes at Japanese marathons",
+  "upload_type": "dataset",
+  "description": "Derived summaries, figures and analysis code (Code S1, Tables S1–S5, Figure S1) for the article submitted to Translational Exercise Biomedicine. Race results and individual finisher records are not included; data sources are listed in the README. Code is released under MIT, tables/figures/text under CC BY 4.0.",
+  "creators": [
+    {"name": "Fujiwara, Arata", "affiliation": "SUZUKI ATHLETE CLUB, Suzuki Motor Corporation; Asia AI Institute"},
+    {"name": "Takahashi, Yusuke", "affiliation": "Faculty of Data Science, Musashino University; Asia AI Institute", "orcid": "0009-0006-8351-2280"}
+  ],
+  "keywords": ["marathon", "pacing", "exercise prescription", "performance prediction", "distance conversion", "VDOT", "ADOT", "Japan"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "https://github.com/aix-sc/adot-d0-supplement", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
