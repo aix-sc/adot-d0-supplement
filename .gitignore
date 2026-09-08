@@ -1,0 +1,8 @@
+# Raw results and extracted individual records are never committed
+pdfs/
+*.pdf
+extract_*.csv
+derived_*.csv
+slopes_boot.csv
+__pycache__/
+.DS_Store
